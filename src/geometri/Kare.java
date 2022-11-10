@@ -3,8 +3,8 @@ package geometri;
 public class Kare {
     public int kenar;
 
-    public Kare(int kenar){
-
+    public Kare(int k){
+        kenar=k;
     }
 
     public int alanHesapla(){

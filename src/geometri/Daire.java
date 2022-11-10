@@ -2,7 +2,8 @@ package geometri;
 
 public class Daire {
     public int yaricap;
-    public Daire(int yaricap){
+    public Daire(int r){
+        yaricap=r;
     }
 
     public double alanHesapla(){
